@@ -72,7 +72,7 @@ Now a table:
 
 ## Images
 
-<img src="shields_res.png" alt="resume">
+<img src="_screenshots/shields_res.png" alt="resume">
 
 This is an image[^4]
 
