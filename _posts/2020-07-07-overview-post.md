@@ -72,7 +72,7 @@ Now a table:
 
 ## Images
 
-<img src="C:\Users\jazzy\Source\Repos\jshields06.github.io\_screenshots\shields_res.png" alt="resume">
+<img src="images\shields_res.png" alt="resume">
 
 This is an image[^4]
 
