@@ -72,7 +72,7 @@ Now a table:
 
 ## Images
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+<img src="shields_res.png" alt="resume">
 
 This is an image[^4]
 
