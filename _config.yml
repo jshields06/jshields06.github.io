@@ -40,7 +40,7 @@ soopr:
 highlighter: rouge
 
 sass:
-  style: :compressed
+  style: compressed
 
 plugins:
   - jekyll-feed
