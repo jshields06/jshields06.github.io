@@ -1,28 +1,29 @@
 <p class="post-date text-bold">
-  {% if page.author %}
-    <span class="text-upcase">{{ page.author }}</span> / 
-  {% endif %}
-  {% if page.date %}
+    {% if page.author %}
+    <span class="text-upcase">{{ page.author }}</span> /
+    {% endif %}
+    {% if page.date %}
     <span class="text-upcase">{{ page.date | date: "%B %Y"}}</span>
-  {% endif %}
+    {% endif %}
 
-{% if site.theme_config.show_reading_time == true %}
-  {% capture words %}
-  {{ content | number_of_words | minus: 180 }}
-  {% endcapture %}
-  {% unless words contains '-' %}
-  {{ words | strip | prepend: '(' | append: ' Words, ' }}
-  {{ words | plus: 180 | divided_by: 180 | append: ' Minutes)' }}
-  {% endunless %}
-{% endif %}
+    {% if site.theme_config.show_reading_time == true %}
+    {% capture words %}
+    {{ content | number_of_words | minus: 180 }}
+    {% endcapture %}
+    {% unless words contains '-' %}
+    {{ words | strip | prepend: '(' | append: ' Words, ' }}
+    {{ words | plus: 180 | divided_by: 180 | append: ' Minutes)' }}
+    {% endunless %}
+    {% endif %}
 </p>
-
-
-
+<!-- This is a comment
+<div class="soopr-btn"
+     data-twitter="SooprCo">
+</!div> (get rid of comment arrows to put post buttons back)-->
 {% if site.theme_config.show_tags == true %}
-  <div class="">
+<div class="">
     {% for tag in page.tags %}
     <span class="tag">{{ tag }}</span>
     {% endfor %}
-  </div>
+</div>
 {% endif %}
