@@ -2,8 +2,8 @@ title: portfolio
 author: Jasmine Shields
 url: https://jshields06.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+ I am an undergraduate student at UC Irvine pursuing Software Engineering. I consistently go above and beyond for myself and others,
+  bringing success wherever I go. My early experiences with coding have given me the ability to quickly understand programming languages and their complexities, enabling me to tackle challenges with creativity and effectiveness.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
