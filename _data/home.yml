@@ -1,9 +1,14 @@
 navbar_entries:
+  - title: projects
+    url: blog
+
   - title: about
     url: about
 
-  - title: projects
-    url: blog
+  - title: resume
+    url: post
+
+
 
 
 project_entries:
