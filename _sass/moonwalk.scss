@@ -79,7 +79,7 @@ img {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
     html, body {
-        --headings: #4D2979;
+        --headings: #91A7FF;
         --links: #91A7FF;
         --highlight: #41C7C7;
         --bg: #1f242A;
@@ -89,8 +89,6 @@ img {
         --code-text: #91A7FF;
         --share-text: #C4C4C4;
     }
-
-    ;
 }
 
 html[data-theme="dark"] { @include dark-appearance; }
@@ -182,7 +180,6 @@ mark {
   font-weight: bold;
 }
 .text-upcase {
-  text-transform: uppercase;
   letter-spacing: 1px;
 }
 p code, li code {
