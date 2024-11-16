@@ -2,9 +2,7 @@
     {% if page.author %}
     <span class="text-upcase">{{ page.author }}</span> /
     {% endif %}
-    {% if page.date %}
-    <span class="text-upcase">{{ page.date | date: "%B %Y"}}</span>
-    {% endif %}
+
 
     {% if site.theme_config.show_reading_time == true %}
     {% capture words %}
