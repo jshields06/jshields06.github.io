@@ -30,9 +30,9 @@ theme_config:
   # options for "home" page
   home:
     title_projects: coding projects
-    title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    title_misc_list: details
+    title_blog: blog
+    title_old_projects: old projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
