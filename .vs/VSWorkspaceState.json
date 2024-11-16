@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\images\\favicon",
+    "\\images",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts",
+    "\\_screenshots"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\images\\shields_res.png",
   "PreviewInSolutionExplorer": false
 }
