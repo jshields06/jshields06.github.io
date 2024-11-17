@@ -1,15 +1,7 @@
 ---
 layout: post
 --- 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .transition {
-            transition: all 1s ease;
-        }
-    </style>
-</head>
+
 <body>
     <img id="themeImage" src="images/shields_res.png" alt="resume">
     <script>
@@ -41,4 +33,3 @@ layout: post
         }
     </script>
 </body>
-</html>
