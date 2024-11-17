@@ -1,9 +1,8 @@
 ---
-layout: post
+title: resume
 --- 
 
 <body>
-    <img id="themeImage" src="images/shields_res.png" alt="resume">
     <script>
         window.addEventListener('load', themeChange);
         const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
@@ -32,4 +31,5 @@ layout: post
             }, 1000);
         }
     </script>
+    <img src alt>
 </body>
