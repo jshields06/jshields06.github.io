@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <script>
     window.addEventListener('load', themeChange);
@@ -8,13 +8,13 @@
 
     let currentTheme = document.documentElement.getAttribute('data-theme');
     if (currentTheme === 'dark') {
-        transition(); <
+        transition();
         img src = "images\shields_res_dark.png"
-        alt = "resume" >
+        alt = "resume" 
     } else {
-        transition(); <
+        transition(); 
         img src = "images\shields_res.png"
-        alt = "resume" >
+        alt = "resume" 
     });
 
     let transition = () => {
