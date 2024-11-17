@@ -64,17 +64,18 @@ img {
   margin: 0 auto;
 }
 @mixin light-appearance {
-  html, body {
-      --bg: #FFF;
-      --bg-secondary: #f3f4f6;
-      --headings: #1e293b;
-      --text: #374151;
-      --text-secondary: #6b7280;
-      --links: #6366f1;
-      --highlight: #FFECB2; // light yellow
-      --code-text: #9D174D;
-      --share-text: #999;
-  }
+    html, body {
+        --bg: #FFF;
+        --bg-secondary: #f3f4f6;
+        --headings: #1e293b;
+        --text: #374151;
+        --text-secondary: #6b7280;
+        --links: #6366f1;
+        --highlight: #FFECB2; // light yellow
+        --code-text: #9D174D;
+        --share-text: #999;
+        --content: url('images\shields_res_dark.png');
+    }
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
@@ -88,6 +89,7 @@ img {
         --text-secondary: #9CA3AF;
         --code-text: #91A7FF;
         --share-text: #C4C4C4;
+        --content: url('images\shields_res_dark.png');
     }
 }
 
