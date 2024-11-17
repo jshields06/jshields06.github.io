@@ -1,14 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\images\\favicon",
+    "\\assets\\css",
     "\\images",
     "\\_data",
     "\\_includes",
     "\\_layouts",
     "\\_posts",
+    "\\_sass",
     "\\_screenshots"
   ],
-  "SelectedNode": "\\images\\shields_res.png",
+  "SelectedNode": "\\_includes\\date_and_social_share.html",
   "PreviewInSolutionExplorer": false
 }
