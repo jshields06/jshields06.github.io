@@ -3,9 +3,6 @@ navbar_entries:
   - title: home
     url: home
 
-  - title: projects
-    url: blog
-
   - title: about
     url: about
 
