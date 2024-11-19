@@ -1,10 +1,10 @@
 navbar_entries:
 
-  - title: home
-    url: home
-
   - title: about
     url: about
+
+  - title: projects
+    url: home
 
   - title: resume
     url: resume-page
@@ -13,18 +13,14 @@ navbar_entries:
 
 
 project_entries:
-  - title: Project 1
-    url: code
-    desc: This is an example project, configured in _data/home.yml
+  - title: Encode and Decdode
+    url: https://github.com/jshields06/Encode-and-Decode
+    desc: Most recent C++ Project
 
-  - title: Project 2
-    url: code
-    desc: Projects are shown in card layout
+  - title: Bank
+    url: https://github.com/jshields06/Bank
+    desc: First C++ Project
 
-  - title: Project 3
-    url: code
-    desc: You can control visibility from _config.yml file
-    highlight: WIP
 
 old_project_entries:
   - title: Soopr
