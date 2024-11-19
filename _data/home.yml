@@ -1,7 +1,7 @@
 navbar_entries:
 
   - title: about
-    url: about
+    url: home
 
   - title: resume
     url: resume-page
