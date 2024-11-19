@@ -3,9 +3,6 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: projects
-    url: home
-
   - title: resume
     url: resume-page
 
