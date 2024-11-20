@@ -1,4 +1,4 @@
 ---
 title: resume
 ---
-<img src="images/shields_res_dark.png" alt="resume">
+<img src="images/shields_resume_final.png" alt="resume">
