@@ -10,6 +10,10 @@ navbar_entries:
 
 
 project_entries:
+  - title: Sokoban
+    url: https://github.com/jshields06/Sokoban
+    desc: First Python Project
+
   - title: Encode and Decdode
     url: https://github.com/jshields06/Encode-and-Decode
     desc: Most recent C++ Project
@@ -17,6 +21,8 @@ project_entries:
   - title: Bank
     url: https://github.com/jshields06/Bank
     desc: First C++ Project
+
+ 
 
 
 old_project_entries:
