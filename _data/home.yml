@@ -14,7 +14,7 @@ project_entries:
     url: https://github.com/jshields06/Sokoban
     desc: First Python Project
 
-  - title: Encode and Decdode
+  - title: Encode and Decode
     url: https://github.com/jshields06/Encode-and-Decode
     desc: Most recent C++ Project
 
