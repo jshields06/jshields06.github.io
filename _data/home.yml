@@ -1,7 +1,7 @@
 navbar_entries:
 
   - title: about
-    url: home
+    url: https://jshields06.github.io/
 
   - title: resume
     url: resume-page
