@@ -18,29 +18,28 @@ ul.horizontal-list {
 }
 
 .card {
-  padding: 1em;
-  border: 1px var(--text) solid;
-  width: 1em;
-  height: auto;
-  text-align: center;
-  font-size: 1em;
-  align-items: center;
-  background-color: var(--bg-secondary);
-  margin-bottom: 0.8em;
-  border-radius: 0.5em;
+    padding: 1em;
+    border: 1px var(--text) solid;
+    width: 1em;
+    height: auto;
+    text-align: center;
+    font-size: 1em;
+    align-items: center;
+    background-color: var(--bg-secondary);
+    margin-bottom: 0.8em;
+    border-radius: 0.5em;
 
-  .header {
-    color: var(--links);
-  }
+    .header {
+        color: var(--links);
+    }
 
-  .body {
-    font-size: 0.8em;
-  }
+    .body {
+        font-size: 0.8em;
+    }
 
-  hr {
-    margin: 0.5em 0;
-  }
-
+    hr {
+        margin: 0.5em 0;
+    }
 }
 
 /* Responsive cards - one column layout on small screens */
