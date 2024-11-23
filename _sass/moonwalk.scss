@@ -51,14 +51,13 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
 }
 
 blockquote {
-    max-width: 100%;
     text-align: center;
     font-style: italic;
     border: thin solid black;
     padding: 1.5em;
 
     p {
-        margin: 0;
+        margin: auto;
     }
 }
 
