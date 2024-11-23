@@ -1,4 +1,4 @@
 ﻿---
-title: <h5>resume</h5>
+title: <title></title>
 ---
 <img src="images/shields_resume_final.png" alt="resume">
