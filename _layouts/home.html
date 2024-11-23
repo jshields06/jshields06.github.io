@@ -14,10 +14,13 @@ layout: default
 
 {{ content }}
 
-<blockquote align ="center">{% if site.theme_config.show_projects == true %}
+{% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
-  {% include card_list.html collection=site.data.home.project_entries %}
-{% endif %} </blockquote>
+  <blockquote align="center">
+      {% include card_list.html collection=site.data.home.project_entries %}
+  </blockquote>
+{% endif %}
+
 
 {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
