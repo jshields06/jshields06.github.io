@@ -8,7 +8,12 @@ layout: default
     {% endif %}
 
     {% if site.theme_config.show_description == true %}
-    <blockquote align="left">{{ site.description }}</blockquote>
+    <div class="blockquote-container">
+        <img src="pictureofme.jpg" alt="picture of me" class="blockquote-image">
+        <blockquote>
+            {{ site.description }}
+        </blockquote>
+    </div>
     {% endif %}
 </header>
 

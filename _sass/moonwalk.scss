@@ -65,9 +65,17 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
     overflow-x: auto;
     padding: 1em;
 }
+.blockquote-container {
+    display: flex;
+    align-items: center;
+}
+
+.blockquote-image {
+    margin-right: 10px; /* Adjust as needed */
+}
 
 blockquote {
-    text-align: center;
+    text-align: left;
     font-style: italic;
     border: thin solid black;
     padding: .8em;
