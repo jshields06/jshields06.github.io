@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images",
+    "\\assets",
+    "\\assets\\css",
+    "\\bin",
     "\\_data",
     "\\_includes",
     "\\_layouts",
@@ -9,6 +11,6 @@
     "\\_sass",
     "\\_screenshots"
   ],
-  "SelectedNode": "\\images\\pictureofme.png",
+  "SelectedNode": "\\_includes\\head.html",
   "PreviewInSolutionExplorer": false
 }
