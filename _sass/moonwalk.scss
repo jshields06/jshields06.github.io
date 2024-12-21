@@ -67,6 +67,7 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
 }
 .blockquote-container {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
 }
 
