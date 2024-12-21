@@ -2,11 +2,13 @@ title: portfolio
 author: Jasmine Shields
 url: https://jshields06.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
- As an undergraduate student at UC Irvine, pursuing a degree in Software Engineering,
- I consistently strive for excellence in both personal and collaborative endeavors.
- My early experiences with coding have endowed me with the ability to swiftly comprehend programming languages and their intricacies, 
- enabling me to address challenges with creativity and efficacy.
- I am dedicated to achieving success and contributing positively to any team or project I am involved in.
+ Hello! My name is Jasmine!
+ 
+ I am currently an undergraduate student at UC Irvine pursuing a B.S. in Software Engineering. 
+ Throughout my childhood, I have always loved coding. I participated in multiple programs such as Girls Who Code and Black Girls Code which sparked my interest early on. 
+ My experiences with coding have given me the ability to swiftly comprehend programming languages and their intricacies, enabling me to address challenges with creativity and efficacy. 
+ I am dedicated to achieving success and contributing positively to any team or project I am involved in and I consistently strive for excellence in both my personal and collaborative endeavors. 
+ In my freetime, I enjoy playing games (such as Wizard101, Undertale, The Sims 4, and Nier Automata), hanging out with my friends, going on walks, and occasionally watching a nostalgic cartoon! 
 
 permalink: /:slug
 
