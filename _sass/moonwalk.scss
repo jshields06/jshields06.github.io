@@ -67,13 +67,12 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
 }
 .blockquote-container {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
 }
 
 .blockquote-image {
     float: left;
-    margin-right: 5px; /* Adjust as needed */
+    margin-right: 10px; /* Adjust as needed */
 }
 
 blockquote {
