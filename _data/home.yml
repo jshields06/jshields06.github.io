@@ -10,22 +10,10 @@ navbar_entries:
 
 
 project_entries:
-  - title: Sokoban
-    url: https://github.com/jshields06/Sokoban
-    desc: First Python Project
 
   - title: EA & Forage Project
     url: https://github.com/jshields06/EA-Forage-Assignment
     desc: Most recent C++ Project
-
-  - title: Encode and Decode
-    url: https://github.com/jshields06/Encode-and-Decode
-    desc: Second C++ Project
-
-  - title: Bank
-    url: https://github.com/jshields06/Bank
-    desc: First C++ Project
- 
 
 
 old_project_entries:
