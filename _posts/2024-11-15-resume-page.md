@@ -1,7 +1,7 @@
 ﻿---
 title: ""
 ---
-<img src="/images/Jasmine_Shields.png" alt="resume">
+<img src="/images/Jasmine_Shields_Resume.png" alt="resume">
     {% if site.theme_config.show_footer == true %}
 <footer>
     <div class="dashed"></div>
